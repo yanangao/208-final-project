@@ -1,6 +1,7 @@
 # Image Classification: Simpsons Chracter Recognition
 Group member: Yanan Gao, Yu Zhu
 ## How the project is organized
+* _main report.pdf_ : Our formal report for this final project.
 * _Data cleaning and processing.ipynb_ : Contains data loading, cleaning and processing. After this step, the data is ready to be fitted into various models.
 * _k-NN model.ipynb_ : Contains the implementation of k-NN model, including cross validation, model fitting, accuracy calculating and visulization (cv score plot).
 * _Random forest model.ipynb_ : Contains the implementation of random forest model, including model fitting, accuracy calculating and visulization (confusion matrix).
